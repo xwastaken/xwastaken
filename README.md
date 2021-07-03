@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xwastaken.
+- 🌱 I’m currently learning Java, C.
+- 📫 How to reach me: <a href="https://t.me/xwastaken">Telegram</a>
